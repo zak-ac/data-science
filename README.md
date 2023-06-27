@@ -9,7 +9,7 @@ Ce dépôt GitHub contient deux fichiers Jupyter Notebook qui fournissent des ex
 - [CNN Explication et Application.ipynb](CNN%20Explication%20et%20Application.ipynb) : Ce notebook se concentre sur les Convolutional Neural Networks (CNN), une architecture couramment utilisée pour le traitement des images. Il explique en détail les concepts clés des CNN, et fournit des exemples de code pour construire et entraîner des modèles CNN en utilisant des bibliothèques comme TensorFlow, Keras ou PyTorch.
 ## Auteurs
 
-Ce projet a été forké à partir du [Repo d'origine]() et modifié par [Zak](url)] selon les exigences de l'exercice.
+Ce projet a été forké à partir du [Repo d'origine]() et modifié par [Zak](url) selon les exigences de l'exercice.
 N'hésitez pas à me contacter si vous avez des questions ou des commentaires.
 
 ## Licence
