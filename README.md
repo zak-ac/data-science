@@ -14,4 +14,4 @@ N'hésitez pas à me contacter si vous avez des questions ou des commentaires.
 
 ## Licence
 
-Ce projet est sous licence [IT](LICENSE).
+Ce projet est sous licence [MIT](LICENSE).
